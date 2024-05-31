@@ -1,6 +1,3 @@
-import { answer } from './app.js'
+import './style.css';
 
-import './app.js';
-import "./style.css";
-
-console.log("answer", answer)
+import './js/app'
